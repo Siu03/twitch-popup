@@ -35,23 +35,23 @@
 }
 
 .popup .left .twitter::before{
-    background: #4b9bd8 url(../attempt/img/twitter.webp) no-repeat 10px 10px;
+    background: #4b9bd8 url(img/twitter.webp) no-repeat 10px 10px;
 }
 
 .popup .left .instagram::before{
-    background: #E4405F url(../attempt/img/pngfind.com-instagram-png-white-2773517.png) no-repeat 10px 10px;
+    background: #E4405F url(img/pngfind.com-instagram-png-white-2773517.png) no-repeat 10px 10px;
 }
 
 .popup .left .youtube::before{
-    background: red url(../attempt/img/dc4LABqni.png) no-repeat 10px 10px;
+    background: red url(img/dc4LABqni.png) no-repeat 10px 10px;
 }
 
 .popup .left .twitch::before{
-    background: #6542a6 url(../attempt/img/twitch.webp) no-repeat 10px 10px;
+    background: #6542a6 url(img/twitch.webp) no-repeat 10px 10px;
 }
 
 .popup .left .kick::before{
-    background: black url(../attempt/img/unnamed.png) no-repeat 10px 10px;
+    background: black url(img/unnamed.png) no-repeat 10px 10px;
 }
 
 .popup .right {
